@@ -1,6 +1,11 @@
 # TensorBoard Table of Contents
 
-## Sections that exist
+- [Installation](tensorboard/install_tensorboard.md)
+- [Get Started](tensorboard/get_started_tensorboard.md)
+- [FAQ](tensorboard/faq_tensorboard.md)
+
+
+## Other Sections with TensorBoard References
 
 - programmers_guide/index.md
 - programmers_guide/summaries_and_tensorboard.md
@@ -20,5 +25,4 @@
 - tutorials/deep_cnn.md
 - tutorials/layers.md
 - get_started/custom_estimators.md
-
 
