@@ -1,5 +1,6 @@
 # TensorBoard Table of Contents
 
+- [About TensorBoard](tensorboard/about_tensorboard.md)
 - [Installation](tensorboard/install_tensorboard.md)
 - [Get Started](tensorboard/get_started_tensorboard.md)
     - [Using TensorBoard with a Cloud-based VM](tensorboard/using_cloud_based_vm_local_tensorboard.md)
