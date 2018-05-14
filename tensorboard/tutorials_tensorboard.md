@@ -1,6 +1,6 @@
-# Tutorials for Tensorboard
+# Tutorials for TensorBoard
 
-## In-depth 
+## In-Depth Examples using TensorBoard
 For an in-depth example of
 using TensorBoard, see the tutorial: [TensorBoard: Visualizing
 Learning][].
