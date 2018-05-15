@@ -7,6 +7,9 @@
     - Using TensorBoard with PyTorch
 - Extending TensorBoard
     - [Adding a Plugin to Extend TensorBoard](tensorboard/adding_plugin_tensorboard.md)
+- Programmer's Guide
+    - [TensorBoard: Visualizing Learning](programmers_guide/summaries_and_tensorboard.md)
+    - [TensorBoard: Histograms](programmers_guide/tensorboard_histograms.md)
 - [FAQ](tensorboard/faq_tensorboard.md)
 - [Tutorials](tensorboard/tutorials_tensorboard.md)
 
